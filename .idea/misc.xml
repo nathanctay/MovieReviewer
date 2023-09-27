@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/create_review_fragment.xml" value="0.23734893798828127" />
+        <entry key="app/src/main/res/layout/review_fragment.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/layout/review_list_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/reviews_fragment.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/layout/search_fragment.xml" value="0.26962585449218757" />
+        <entry key="app/src/main/res/layout/search_list_item.xml" value="0.2044677734375" />
+        <entry key="app/src/main/res/menu/popup_menu.xml" value="0.13518518518518519" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/file_paths.xml" value="0.1890625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
